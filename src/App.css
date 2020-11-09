@@ -1,0 +1,43 @@
+.stateShow
+{
+  text-align: center;
+}
+h1
+{
+  color: purple;
+  font-family: 'Courier New', Courier, monospace;
+}
+h2
+{
+  color: red;
+  font-family:  'Arial Narrow', Arial, sans-serif;
+}
+p
+{
+  color: gray;
+  font-size: small;
+  margin: 20px 50px ;
+}
+button
+{
+  width: 80px;
+  height: 40px;
+  color: aliceblue;
+  
+}
+.second
+{
+  font-size: 50px;
+  color: blue;
+}
+.profile
+{
+  font-size: 50px;
+  margin-top: 150px;
+}
+img
+{
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 80px;
+}
